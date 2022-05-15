@@ -1,0 +1,8 @@
+[INFO ] 2021-12-20 14:10:29.349 [restartedMain] TestRestApplication - Starting TestRestApplication using Java 16.0.2 on LAPTOP-N3SRBGR0 with PID 11984 (C:\Users\lolic\IdeaProjects\demo\target\classes started by lolic in C:\Users\lolic\IdeaProjects\demo)
+[DEBUG] 2021-12-20 14:10:29.351 [restartedMain] TestRestApplication - Running with Spring Boot v2.6.1, Spring v5.3.13
+[INFO ] 2021-12-20 14:10:29.352 [restartedMain] TestRestApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-20 14:10:32.052 [restartedMain] TestRestApplication - Started TestRestApplication in 2.967 seconds (JVM running for 3.947)
+[INFO ] 2021-12-20 14:12:16.617 [restartedMain] TestRestApplication - Starting TestRestApplication using Java 16.0.2 on LAPTOP-N3SRBGR0 with PID 11296 (C:\Users\lolic\IdeaProjects\demo\target\classes started by lolic in C:\Users\lolic\IdeaProjects\demo)
+[DEBUG] 2021-12-20 14:12:16.620 [restartedMain] TestRestApplication - Running with Spring Boot v2.6.1, Spring v5.3.13
+[INFO ] 2021-12-20 14:12:16.620 [restartedMain] TestRestApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-12-20 14:12:19.061 [restartedMain] TestRestApplication - Started TestRestApplication in 2.692 seconds (JVM running for 3.764)
